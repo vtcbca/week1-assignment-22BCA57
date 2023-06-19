@@ -1,4 +1,3 @@
-#write a python script to enter any number and check its it prime or not
 choice=1
 while(choice!=6):
     print("1. CHECK NUMBER IS PRIME OR NOT")
